@@ -1,0 +1,11 @@
+*~
+
+*swp
+
+*.nogit.*
+
+build/*
+
+work.sh
+
+
